@@ -44,7 +44,7 @@ describe('recipe routes', () => {
         dateOfEvent: new Date(),
         notes: 'not great',
         rating: 1
-      }
+      },
     ]);
   });
 
